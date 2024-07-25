@@ -1,0 +1,15 @@
+[submodule "am"]
+	path = am
+	url = git@github.com:BUAA-CI-LAB/am.git
+	branch = la32r
+[submodule "la32r-toolchains"]
+	path = la32r-toolchains
+	url = git@github.com:BUAA-CI-LAB/la32r-toolchains.git
+[submodule "nemu"]
+	path = nemu
+	url = git@github.com:BUAA-CI-LAB/nemu.git
+	branch = master
+[submodule "eulacore"]
+	path = eulacore
+	url = git@github.com:BUAA-CI-LAB/eulacore.git
+	branch = eulacore
